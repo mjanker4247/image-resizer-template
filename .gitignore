@@ -7,3 +7,4 @@ out/
 *.kdev4
 *~
 *.zip
+vcpkg_installed/
